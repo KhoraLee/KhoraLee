@@ -3,11 +3,11 @@
 ## 📈 My Github History
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height=199 align="center" src="https://github-readme-stats.vercel.app/api?username=KhoraLee&count_private=true&show_icons=true&theme=algolia&hide_border=true"/></a>
+    <img height=199 align="center" src="https://github-readme-stats-three-mu-68.vercel.app/api?username=KhoraLee&count_private=true&show_icons=true&theme=algolia&hide_border=true"/></a>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height=199 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=KhoraLee&layout=compact&langs_count=8&card_width=320&theme=algolia&hide_border=true"/></a>
+    <img height=199 align="center" src="https://github-readme-stats-three-mu-68.vercel.app/api/top-langs?username=KhoraLee&layout=compact&langs_count=8&card_width=320&theme=algolia&hide_border=true"/></a>
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=KhoraLee&theme=algolia&row=1&column=8&margin-w=2&no-frame=true"/>
+    <img src="https://github-profile-trophy-eight-peach.vercel.app/?username=KhoraLee&theme=algolia&row=1&column=8&margin-w=2&no-frame=true"/>
   </a>
 </p>
 
@@ -39,4 +39,4 @@
 
 ## 🚀 Career
 
-_Last updated: 2025.06.07_
+_Last updated: 2025.11.24_
